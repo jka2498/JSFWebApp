@@ -1,4 +1,4 @@
-package components;
+package com.sparta.jka.components;
 
 public class User {
 
